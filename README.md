@@ -69,7 +69,7 @@ My edge is a **builder mindset backed by real production exposure**: I've deploy
 
 ## 🚀 Featured Projects
 
-### 📦 End-to-End ML System — Pharmaceutical Supply Chain Forecasting
+### 1 · 📦 End-to-End ML System — Pharmaceutical Supply Chain Forecasting
 > **Sector:** Healthcare / Supply Chain · **Stack:** Python, Scikit-learn, XGBoost, Random Forest, K-Means, Streamlit
 
 Full CRISP-DM lifecycle project: EDA → feature engineering → supervised models (Random Forest / XGBoost) + unsupervised clustering (K-Means) → interactive Streamlit web app for non-technical stakeholders.
@@ -77,6 +77,17 @@ Full CRISP-DM lifecycle project: EDA → feature engineering → supervised mode
 **Key outcomes:** ~85% predictive accuracy on import demand; delivered as a self-service analytics tool accessible to business users.
 
 🔗 **[View Repository →](https://github.com/JuanDiego076/App-web-Analisis-de-importaciones)**
+
+### 2 · 🏠 Socioeconomic Classification via ICT Usage Patterns
+> **Sector:** Public Policy / Telecom · **Stack:** Python, Scikit-learn, XGBoost, Bagging, Jupyter
+
+Multiclass classification pipeline to predict household socioeconomic stratum from ICT usage data (internet, TV, smartphones). Built on **ENDUTIH 2024** — Mexico's national household survey (58,080 records).
+
+Full pipeline: EDA → null handling (ColumnTransformer + imputers) → 5-model comparison (Decision Tree, Bagging, Random Forest, AdaBoost, XGBoost) → `RandomizedSearchCV` hyperparameter tuning → 10-fold stratified cross-validation.
+
+**Key outcomes:** 97% accuracy (Bagging/Random Forest) — 27-point gap over AdaBoost, confirming ensemble variance reduction superiority on heterogeneous tabular survey data.
+
+🔗 **[View Repository →](https://github.com/JuanDiego076/socioeconomic-classification-via-ict)**
 
 ---
 
