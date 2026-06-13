@@ -98,17 +98,6 @@ Full CRISP-DM lifecycle project: EDA → feature engineering → supervised mode
 
 🔗 **[View Repository →](https://github.com/JuanDiego076/App-web-Analisis-de-importaciones)**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Juan Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanDiego076&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiego076&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
 
 ---
 
