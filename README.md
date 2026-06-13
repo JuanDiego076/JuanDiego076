@@ -69,7 +69,7 @@ My edge is a **builder mindset backed by real production exposure**: I've deploy
 
 ## 🚀 Featured Projects
 
-###📦 End-to-End ML System — Pharmaceutical Supply Chain Forecasting
+### 📦 End-to-End ML System — Pharmaceutical Supply Chain Forecasting
 > **Sector:** Healthcare / Supply Chain · **Stack:** Python, Scikit-learn, XGBoost, Random Forest, K-Means, Streamlit
 
 Full CRISP-DM lifecycle project: EDA → feature engineering → supervised models (Random Forest / XGBoost) + unsupervised clustering (K-Means) → interactive Streamlit web app for non-technical stakeholders.
