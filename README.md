@@ -69,27 +69,7 @@ My edge is a **builder mindset backed by real production exposure**: I've deploy
 
 ## 🚀 Featured Projects
 
-### 1 · 🤖 AI Agent in Production — IBM Watson Assistant Integration
-> **Sector:** Financial Services · **Stack:** Python, IBM Watson API, REST
-
-Designed and deployed a conversational AI agent integrated via external API into the analytics workflow of a major Colombian pension fund. The solution automated resolution of recurring data queries, reducing manual intervention time for the analytics team.
-
-**Key outcomes:** Eliminated a recurring class of data-request bottlenecks in a regulated financial environment.
-
----
-
-### 2 · ⚙️ Production ETL Pipeline & Real-Time Monitoring with Apache Airflow
-> **Sector:** Financial / Enterprise · **Stack:** Python, Apache Airflow, Google BigQuery, Azure Databricks, Azure Data Factory, Logic Apps
-
-Two production-grade pipelines:
-- **Pipeline A:** Airflow DAG with daily scheduling connected to BigQuery — validates query integrity, triggers real-time alerts, and eliminates silent failures that previously went undetected.
-- **Pipeline B:** Extracts task data from Microsoft Planner → Azure Data Lake via Databricks and Logic Apps, enabling executive-level operational visibility.
-
-**Key outcomes:** Zero-downtime daily data quality monitoring; complete elimination of undetected pipeline failures.
-
----
-
-### 3 · 📦 End-to-End ML System — Pharmaceutical Supply Chain Forecasting
+###📦 End-to-End ML System — Pharmaceutical Supply Chain Forecasting
 > **Sector:** Healthcare / Supply Chain · **Stack:** Python, Scikit-learn, XGBoost, Random Forest, K-Means, Streamlit
 
 Full CRISP-DM lifecycle project: EDA → feature engineering → supervised models (Random Forest / XGBoost) + unsupervised clustering (K-Means) → interactive Streamlit web app for non-technical stakeholders.
@@ -97,7 +77,6 @@ Full CRISP-DM lifecycle project: EDA → feature engineering → supervised mode
 **Key outcomes:** ~85% predictive accuracy on import demand; delivered as a self-service analytics tool accessible to business users.
 
 🔗 **[View Repository →](https://github.com/JuanDiego076/App-web-Analisis-de-importaciones)**
-
 
 ---
 
