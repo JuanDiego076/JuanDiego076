@@ -89,8 +89,6 @@ Full pipeline: EDA → null handling (ColumnTransformer + imputers) → 5-model 
 
 🔗 **[View Repository →](https://github.com/JuanDiego076/socioeconomic-classification-via-ict)**
 
----
-
 ### 3 · 💊 NLP Clustering & Classification of Drug Benefit Reviews
 > **Sector:** Healthcare / NLP · **Stack:** Python, Scikit-learn, DBSCAN, TF-IDF, SFFS (mlxtend), PCA, LDA
 
