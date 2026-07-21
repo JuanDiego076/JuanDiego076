@@ -91,6 +91,17 @@ Full pipeline: EDA → null handling (ColumnTransformer + imputers) → 5-model 
 
 ---
 
+### 3 · 💊 NLP Clustering & Classification of Drug Benefit Reviews
+> **Sector:** Healthcare / NLP · **Stack:** Python, Scikit-learn, DBSCAN, TF-IDF, SFFS (mlxtend), PCA, LDA
+
+Two-part NLP study on the DrugLib.com dataset (UCI ML Repository): unsupervised clustering of patient drug reviews + dimensionality reduction comparison for 5-class effectiveness classification. Evaluates K-Means, Agglomerative, and DBSCAN for clustering; PCA, LDA, and SFFS for supervised classification.
+
+**Key outcomes:** DBSCAN achieves Silhouette = **0.707** on semantic text clusters. PCA (47.5%) outperforms supervised LDA (27.6%) — confirming non-linear class boundaries in TF-IDF space.
+
+🔗 **[View Repository →](https://github.com/JuanDiego076/drug-review-nlp-clustering)**
+
+---
+
 ## 📫 Let's Connect
 
 I'm actively looking for **Junior/Mid Data Engineer or Data Scientist** roles where I can build things that matter. If you're working on data infrastructure challenges or ML systems — let's talk.
