@@ -28,8 +28,8 @@ My edge is a **builder mindset backed by real production exposure**: I've deploy
 ```text
 📍 Based in Medellín · 🌎 Open to Colombia-wide relocation
 🎓 B.Sc. Telecommunications Engineering — Universidad de Medellín
-📊 Diplomado en Ciencia de Datos — Universidad de Medellín
-🗣️  English B2 · Spanish Native
+📊 Data science diploma — Universidad de Medellín
+🗣️ English B2 · Spanish Native
 ```
 
 ---
