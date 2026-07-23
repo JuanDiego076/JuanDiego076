@@ -21,7 +21,7 @@
 
 ## 🏗️ About Me
 
-I'm a **Telecommunications Engineer with a Data Science specialization**, and I build data systems that go beyond dashboards — pipelines that run in production, agents that answer questions in real time, and ML models that drive supply-chain decisions.
+I'm a **Telecommunications Engineer with a Data Science diploma**, and I build data systems that go beyond dashboards — pipelines that run in production, agents that answer questions in real time, and ML models that drive supply-chain decisions.
 
 My edge is a **builder mindset backed by real production exposure**: I've deployed Airflow DAGs in financial-sector environments, scaled ETL architectures on Azure for enterprise clients, and shipped an end-to-end ML web app that predicts pharmaceutical import demand with ~85% accuracy.
 
