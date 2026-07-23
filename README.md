@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# Hey, I'm Juan Diego Taborda Roldán 👋
+# Hey, I'm Juan Diego Taborda
 ### Data Engineer · Data Scientist · Python Developer
 *Medellín, Colombia 🇨🇴 · Open to relocation*
 
