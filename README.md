@@ -1,114 +1,94 @@
-<!-- ============================================================
-     GITHUB PROFILE README — Juan Diego Taborda Roldán
-     Archivo: JuanDiego076/JuanDiego076/README.md
-     Instrucción: Crea el repo especial JuanDiego076/JuanDiego076
-     y pega este contenido como README.md
-     ============================================================ -->
+# Hola, soy Juan Diego Taborda 👋
 
-<div align="center">
+### Data Scientist · Data Analyst · Python Developer
 
-# Hey, I'm Juan Diego Taborda
-### Data Engineer · Data Scientist · Python Developer
-*Medellín, Colombia 🇨🇴 · Open to relocation*
+*Medellín, Colombia 🇨🇴 · Abierto a trabajo remoto y reubicación*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juandiegotabordaroldan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandiegotabordaroldan)
-[![Email](https://img.shields.io/badge/Email-juandiego276%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandiego276@gmail.com)
+[![Email](https://img.shields.io/badge/Email-juandiego276@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandiego276@gmail.com)
 [![Azure AZ-900](https://img.shields.io/badge/Azure-AZ--900_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
-
-</div>
 
 ---
 
-## 🏗️ About Me
+## 🏗️ Sobre mí
 
-I'm a **Telecommunications Engineer with a Data Science diploma**, and I build data systems that go beyond dashboards — pipelines that run in production, agents that answer questions in real time, and ML models that drive supply-chain decisions.
+Soy **Ingeniero de Telecomunicaciones con énfasis en Ciencia de Datos** (Universidad de Medellín). Me dedico a convertir datos en decisiones: construyo modelos de machine learning, pipelines de datos y aplicaciones analíticas que resuelven problemas de negocio reales.
 
-My edge is a **builder mindset backed by real production exposure**: I've deployed Airflow DAGs in financial-sector environments, scaled ETL architectures on Azure for enterprise clients, and shipped an end-to-end ML web app that predicts pharmaceutical import demand with ~85% accuracy.
+Mi experiencia práctica viene de entornos de producción del sector financiero y asegurador: en **Protección S.A.** desarrollé un pipeline ETL diario en BigQuery (Python) con detección automática de fallos y notificación al responsable; en **Summa (Grupo Argos)** escalé una API ETL de uso interno a toda la organización, alimentando tableros de Power BI.
 
-```text
-📍 Based in Medellín · 🌎 Open to Colombia-wide relocation
-🎓 B.Sc. Telecommunications Engineering — Universidad de Medellín
-📊 Data science diploma — Universidad de Medellín
-🗣️ English B2 · Spanish Native
+```
+📍 Medellín, Colombia · 🌎 Abierto a remoto y reubicación
+🎓 Ing. de Telecomunicaciones — Universidad de Medellín
+📊 Bootcamp Análisis de Datos (159h) — Talento Tech / U. de Antioquia
+📘 IBM Data Engineering Professional Certificate — Coursera (en curso)
+🗣️ Español nativo · Inglés B2
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Técnico
 
-**Languages & Querying**
+**Lenguajes y consultas**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Machine Learning y análisis**
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![LightGBM](https://img.shields.io/badge/LightGBM-9B59B6?style=for-the-badge&logo=microsoft&logoColor=white)](https://lightgbm.readthedocs.io)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 
-**Data Engineering & Orchestration**
+**Datos y nube**
+[![Google BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery)
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logo=knime&logoColor=black)](https://www.knime.com)
 
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Cloud & Data Platforms**
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-
-**Machine Learning & Analytics**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Visualization & Deployment**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+**Visualización y despliegue**
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos Destacados
 
-### 1 · 📦 End-to-End ML System — Pharmaceutical Supply Chain Forecasting
-> **Sector:** Healthcare / Supply Chain · **Stack:** Python, Scikit-learn, XGBoost, Random Forest, K-Means, Streamlit
+### 1 · 💊 Análisis de Importaciones Farmacéuticas con ML
+> **Sector:** Salud / Cadena de suministro · **Stack:** Python, LightGBM, scikit-learn, Streamlit
 
-Full CRISP-DM lifecycle project: EDA → feature engineering → supervised models (Random Forest / XGBoost) + unsupervised clustering (K-Means) → interactive Streamlit web app for non-technical stakeholders.
+Sistema de ML que predice atributos (principio activo, fabricante, marca) y precio de importaciones farmacéuticas a partir de su perfil logístico, segmentado por tipo de producto. Pipeline completo: EDA → tratamiento de variables → modelos LightGBM por segmento → app Streamlit multipágina.
 
-**Key outcomes:** ~85% predictive accuracy on import demand; delivered as a self-service analytics tool accessible to business users.
+**Resultados:** hasta **94–97% de accuracy** en clasificación (segmento Oncológico) y **R² de 0.73–0.75** en predicción de precio. El tratamiento correcto de identificadores como categóricos y la transformación logarítmica del precio llevaron el desempeño de cercano al azar a los valores actuales.
 
-🔗 **[View Repository →](https://github.com/JuanDiego076/App-web-Analisis-de-importaciones)**
+🔗 [**Ver repositorio →**](https://github.com/JuanDiego076/pharma-imports-ml)
 
-### 2 · 🏠 Socioeconomic Classification via ICT Usage Patterns
-> **Sector:** Public Policy / Telecom · **Stack:** Python, Scikit-learn, XGBoost, Bagging, Jupyter
+### 2 · 🏠 Clasificación Socioeconómica por Patrones de Uso de TIC
+> **Sector:** Política pública / Telecom · **Stack:** Python, scikit-learn, Bagging, Random Forest, Jupyter
 
-Multiclass classification pipeline to predict household socioeconomic stratum from ICT usage data (internet, TV, smartphones). Built on **ENDUTIH 2024** — Mexico's national household survey (58,080 records).
+Pipeline de clasificación multiclase para predecir el estrato socioeconómico de hogares a partir de su uso de TIC (internet, TV, smartphones). Construido sobre **ENDUTIH 2024** — encuesta nacional de hogares de México (58.080 registros).
 
-Full pipeline: EDA → null handling (ColumnTransformer + imputers) → 5-model comparison (Decision Tree, Bagging, Random Forest, AdaBoost, XGBoost) → `RandomizedSearchCV` hyperparameter tuning → 10-fold stratified cross-validation.
+Pipeline completo: EDA → manejo de nulos (ColumnTransformer + imputers) → comparación de 5 modelos (Decision Tree, Bagging, Random Forest, AdaBoost, XGBoost) → ajuste de hiperparámetros con `RandomizedSearchCV` → validación cruzada estratificada 10-fold.
 
-**Key outcomes:** 97% accuracy (Bagging/Random Forest) — 27-point gap over AdaBoost, confirming ensemble variance reduction superiority on heterogeneous tabular survey data.
+🔗 [**Ver repositorio →**](https://github.com/JuanDiego076/socioeconomic-classification-via-ict)
 
-🔗 **[View Repository →](https://github.com/JuanDiego076/socioeconomic-classification-via-ict)**
+### 3 · 📝 Clustering y Clasificación NLP de Reseñas de Medicamentos
+> **Sector:** Salud / NLP · **Stack:** Python, scikit-learn, DBSCAN, TF-IDF, PCA, LDA
 
-### 3 · 💊 NLP Clustering & Classification of Drug Benefit Reviews
-> **Sector:** Healthcare / NLP · **Stack:** Python, Scikit-learn, DBSCAN, TF-IDF, SFFS (mlxtend), PCA, LDA
+Estudio NLP en dos partes sobre el dataset DrugLib.com (UCI ML Repository): clustering no supervisado de reseñas de pacientes + comparación de reducción de dimensionalidad para clasificación de efectividad en 5 clases. Evalúa K-Means, Agglomerative y DBSCAN para clustering; PCA, LDA y SFFS para clasificación supervisada.
 
-Two-part NLP study on the DrugLib.com dataset (UCI ML Repository): unsupervised clustering of patient drug reviews + dimensionality reduction comparison for 5-class effectiveness classification. Evaluates K-Means, Agglomerative, and DBSCAN for clustering; PCA, LDA, and SFFS for supervised classification.
+**Resultados:** DBSCAN alcanza un Silhouette de **0.707** en clusters semánticos de texto; PCA (47.5%) supera a LDA supervisado (27.6%), confirmando fronteras de clase no lineales en el espacio TF-IDF.
 
-**Key outcomes:** DBSCAN achieves Silhouette = **0.707** on semantic text clusters. PCA (47.5%) outperforms supervised LDA (27.6%) — confirming non-linear class boundaries in TF-IDF space.
+🔗 [**Ver repositorio →**](https://github.com/JuanDiego076/drug-review-nlp-clustering)
 
-🔗 **[View Repository →](https://github.com/JuanDiego076/drug-review-nlp-clustering)**
+### 4 · 🏦 Pipeline ETL — Bancos más grandes del mundo
+> **Stack:** Python, BeautifulSoup, SQLite, pandas
 
----
+Pipeline ETL que hace web scraping de los bancos más grandes del mundo, convierte monedas y carga los datos a CSV y SQLite, con logging y manejo de errores.
 
-## 📫 Let's Connect
-
-I'm actively looking for **Junior/Mid Data Engineer or Data Scientist** roles where I can build things that matter. If you're working on data infrastructure challenges or ML systems — let's talk.
-
-**LinkedIn:** [linkedin.com/in/juandiegotabordaroldan](https://www.linkedin.com/in/juandiegotabordaroldan)
-**Email:** juandiego276@gmail.com
+🔗 [**Ver repositorio →**](https://github.com/JuanDiego076/etl-largest-banks)
 
 ---
 
-<div align="center">
-<sub>Last updated: June 2026</sub>
-</div>
+## 📫 Conectemos
+
+Busco activamente roles **Junior/Mid de Data Scientist, Data Analyst o Data Engineer** donde pueda construir cosas con impacto real. Si trabajas en retos de datos o sistemas de ML, hablemos.
+
+**LinkedIn:** [linkedin.com/in/juandiegotabordaroldan](https://www.linkedin.com/in/juandiegotabordaroldan) · **Email:** juandiego276@gmail.com
